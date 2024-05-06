@@ -21,6 +21,10 @@ EVM Balance Tracker 是一个 Python 应用，用于从多个 Ethereum 兼容网
 你可以使用以下命令安装这些依赖：
 
 ```bash
+git clone https://github.com/hubei-xhjy/Blockchain-account-balance-retriever.git
+cd Blockchain-account-balance-retriever
+virtualenv .venv
+source .venv/bin/activate
 pip install web3 pandas tqdm
 ```
 

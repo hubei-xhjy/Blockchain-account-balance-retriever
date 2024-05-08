@@ -7,8 +7,11 @@ from tqdm import trange
 INFURA_API_KEY = "b6bf7d3508c941499b10025c0776eaf8"
 
 address_list = [
-    "0xd88032e588EEe73bC3e682be4EcB9B740dfb014a",
-    "0x369c54759Cb1AE18a897ED2c6230Cf2043b92eF9"
+    "0x41bc7d0687e6cea57fa26da78379dfdc5627c56d",
+    "0x0b32aa5c1e71715206fe29b7badb21ad95f272c0",
+    "0xbbbc35dfac3a00a03a8fde3540eca4f0e15c5e64",
+    "0xa7888f85bd76deef3bd03d4dbcf57765a49883b3",
+    "0x80b3153f39aeec1ef68adc038913698e103e6e1d"
 ]
 
 RPC_LISTS = {
